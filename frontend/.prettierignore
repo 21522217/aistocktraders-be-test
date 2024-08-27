@@ -1,0 +1,8 @@
+app/lib/ckeditor5-build-classic-full-2021
+build/
+node_modules/
+internals/generators/
+internals/scripts/
+package-lock.json
+yarn.lock
+package.json

@@ -1,0 +1,21 @@
+html,
+body {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-image: url('./assets/stock-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#root {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
